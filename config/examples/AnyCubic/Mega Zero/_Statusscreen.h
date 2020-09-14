@@ -16,7 +16,7 @@
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
  */
 
@@ -27,8 +27,6 @@
  * This bitmap from 128x19 C/C++ data
  */
 #pragma once
-
-#define CONFIG_EXAMPLES_DIR "AnyCubic/Mega Zero"
 
 //
 // Status Screen Logo bitmap

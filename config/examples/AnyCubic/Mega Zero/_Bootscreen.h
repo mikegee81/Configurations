@@ -16,15 +16,13 @@
  * GNU General Public License for more details.
  *
  * You should have received a copy of the GNU General Public License
- * along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ * along with this program.  If not, see <https://www.gnu.org/licenses/>.
  *
  */
 #pragma once
 
-#define CONFIG_EXAMPLES_DIR "AnyCubic/Mega Zero"
-
-// #define CUSTOM_BOOTSCREEN_TIMEOUT 2000
-#define CUSTOM_BOOTSCREEN_INVERTED
+//#define CUSTOM_BOOTSCREEN_TIMEOUT 2000
+//#define CUSTOM_BOOTSCREEN_INVERTED
 
 #define CUSTOM_BOOTSCREEN_BMPWIDTH  128
 
